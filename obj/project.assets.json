@@ -1293,9 +1293,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skgmy\\source\\repos\\nUnitTest\\nUnitTest.csproj",
-      "projectName": "nUnitTest",
-      "projectPath": "C:\\Users\\skgmy\\source\\repos\\nUnitTest\\nUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\skgmy\\source\\repos\\nUnitTest\\nUnitTest_FizzBuzz.csproj",
+      "projectName": "nUnitTest_FizzBuzz",
+      "projectPath": "C:\\Users\\skgmy\\source\\repos\\nUnitTest\\nUnitTest_FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\skgmy\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\skgmy\\source\\repos\\nUnitTest\\obj\\",
       "projectStyle": "PackageReference",
